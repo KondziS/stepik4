@@ -5,3 +5,9 @@ paragraph
 paragraph
 
 paragraph
+
+**pogrubienie**
+
+*kursywa*
+
+~~skreslenie~~
