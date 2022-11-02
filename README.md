@@ -17,6 +17,7 @@ paragraph
 Zagniezdzona lista numeryczna
 1. jeden
     1. podjeden
+    2. poddwa
 
 Niezagniezdzona lista nienumeryczna
 - jeden
@@ -30,3 +31,4 @@ c = a + b
 
 suma a i b = `print(c)`
 
+![](Tate_1-1.jpg)
